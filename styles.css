@@ -1,1 +1,42 @@
 /* your code */
+body{
+	padding:0%;
+	margin:0%;
+	font-family:verdana;
+}
+.tab {
+	width:500px;
+	height:200px;
+	border-collapse:collapse;
+	margin:25px;
+
+
+}
+.tab thead tr{
+	background-color:blue;
+	border-radius:50px;
+	color:white;
+	height:40px;
+	font-weight:bold;
+	text-align:left;
+}
+.tr2{
+	background-color:lightcoral;
+	width:100px;
+	color:white;
+	padding-left:50px 50px;
+}
+.tr3{
+	background-color:gray;
+	color:white;
+}
+.tr4{
+	
+	color:white;
+	background-color:lightcoral;
+}
+.tr5{
+	color:white;
+	background-color:gray;
+}
+}
